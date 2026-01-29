@@ -1,2 +1,2 @@
 # Serveur-mo
-1.21.10 fabric 
+1.20.1 forge
